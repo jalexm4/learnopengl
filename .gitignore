@@ -1,0 +1,8 @@
+# Build Directory
+bin/
+
+# Visual Studio
+.vs/
+
+# Shared Libaries
+libs/
