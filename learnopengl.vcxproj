@@ -436,6 +436,7 @@
     <ClInclude Include="include\Window.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="external\glm\detail\func_common.inl" />
     <None Include="external\glm\detail\func_common_simd.inl" />
     <None Include="external\glm\detail\func_exponential.inl" />
@@ -571,6 +572,8 @@
     <None Include="external\glm\gtx\vector_query.inl" />
     <None Include="external\glm\gtx\wrap.inl" />
     <None Include="libs\glfw3.pdb" />
+    <None Include="LICENSE" />
+    <None Include="README.md" />
     <None Include="shaders\cube.frag" />
     <None Include="shaders\cube.vs" />
   </ItemGroup>

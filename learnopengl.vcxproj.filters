@@ -1243,6 +1243,9 @@
     <None Include="external\glm\gtx\wrap.inl">
       <Filter>Header Files</Filter>
     </None>
+    <None Include="README.md" />
+    <None Include="LICENSE" />
+    <None Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="libs\glfw3.lib" />
